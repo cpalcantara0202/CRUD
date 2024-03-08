@@ -1,0 +1,11 @@
+[33m98bd56e[m[33m ([m[1;36mHEAD -> [m[1;32mmyfirstbranch[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33m98bd56e[m[33m ([m[1;36mHEAD -> [m[1;32mmyfirstbranch[m[33m)[m HEAD@{1}: commit: stash
+[33m3b47fc3[m HEAD@{2}: reset: moving to HEAD
+[33m3b47fc3[m HEAD@{3}: commit: sample stash 1
+[33md71aad9[m[33m ([m[1;31mCRUD/myfirstbranch[m[33m)[m HEAD@{4}: checkout: moving from master to myfirstbranch
+[33mc60f9d0[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{5}: checkout: moving from myfirstbranch to master
+[33md71aad9[m[33m ([m[1;31mCRUD/myfirstbranch[m[33m)[m HEAD@{6}: commit: changes
+[33maab2a59[m HEAD@{7}: commit: first commit to myfirstbranch
+[33mc60f9d0[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{8}: checkout: moving from master to myfirstbranch
+[33mc60f9d0[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{9}: commit: sample
+[33m65fe9d4[m HEAD@{10}: commit (initial): fas
