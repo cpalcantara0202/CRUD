@@ -5,7 +5,7 @@ import { Repository } from "typeorm";
 //sample commit for my first branch//
 @Controller('users')
 export class AppController{
-    constructor(
+    constructor( 
         @InjectRepository(User)
         private readonly userRepository: Repository<User>,
     ){}
